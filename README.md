@@ -2,6 +2,7 @@
 Automação completa para a coleta, processamento e armazenamento de informações de Conhecimento de Transporte Eletrônico (CT-e). A aplicação realiza consultas automatizadas em sistemas de notas fiscais, extrai dados relevantes associando-os aos motoristas cadastrados e, por fim, realiza um fechamento mensal de todas as notas transportadas por cada motorista.
 
 🚀 Funcionalidades
+
 ✅ Automatiza a consulta de CT-es no site do IOB e, futuramente, no ÁGILIBlue.
 ✅ Realiza login automático e navegação com Selenium.
 ✅ Extrai dados como: número da nota, data de emissão, valor e status.
