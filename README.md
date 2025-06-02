@@ -42,6 +42,7 @@ MySQL >= 8.0
 Navegador compatível com Selenium (Firefox recomendado)
 
 ⚠️ Observação importante:
+
 O programa somente irá funcionar se o usuário tiver uma conta ativa e com movimentações no site do IOB.
 
 📝 Instalação
