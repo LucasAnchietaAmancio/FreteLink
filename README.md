@@ -1,4 +1,5 @@
-📦 Automação CTe
+📦 Frete Link CTe
+
 Automação completa para a coleta, processamento e armazenamento de informações de Conhecimento de Transporte Eletrônico (CT-e). A aplicação realiza consultas automatizadas em sistemas de notas fiscais, extrai dados relevantes associando-os aos motoristas cadastrados e, por fim, realiza um fechamento mensal de todas as notas transportadas por cada motorista.
 
 🚀 Funcionalidades
